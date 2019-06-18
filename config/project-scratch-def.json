@@ -1,0 +1,14 @@
+{
+  "orgName": "Dirty Hands @ Adidas Tech Summit 2019",
+  "country": "DE",
+  "edition": "Developer",
+  "description": "Bla",
+  "language": "en_US",
+  "features": ["Communities"],
+  "settings": {
+    "orgPreferenceSettings": {
+      "s1DesktopEnabled": true,
+      "networksEnabled": true
+    }
+  }
+}
