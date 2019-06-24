@@ -9,6 +9,11 @@
             "title": "Step 2: Getting familiar with UI, UX concept.",
             "body": "<p>....</p>",
             "button": "Ok, I've got it - let's go ahead!"
+        },
+        {
+            "title": "Step 3: Theming",
+            "body": "<p>Come on, that looks not like Adidas, can we use somehow our CI?</p><p>And by the way I don't speak English and want to use my locale settings for date/time/currency!</p>",
+            "button": "Get the Adidas Theme and tell me how to perosnalize the system!"
         }
     ]
 }
