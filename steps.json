@@ -4,26 +4,6 @@
             "title": "Step 1: Creating a Scratch Org",
             "body": "<p>We are going to create a new 'Scratch Org', which is an ephemeral dev environnement.<br>We will use it to creare our app, but also to experience how Salesforce DX allows collaboratoive development, Continuous Integration and Continous Deployment.</p><h2>Scratch Org</h2><p>The scratch org is a source-driven and disposable deployment of Salesforce code and metadata. A scratch org is fully configurable, allowing developers to emulate different Salesforce editions with different features and preferences. You can share the scratch org configuration file with other team members, so you all have the same basic org in which to do your development.</p>",
             "button": "Create <b>MY OWN</b> Scratch Org"
-        },
-        {
-            "title": "Step 2: Getting familiar with UI, UX concept.",
-            "body": "<p>....</p>",
-            "button": "Ok, I've got it - let's go ahead!"
-        },
-        {
-            "title": "Step 3: Theming",
-            "body": "<p>Come on, that looks not like Adidas, can we use somehow our CI?</p><p>And by the way I don't speak English and want to use my locale settings for date/time/currency!</p>",
-            "button": "Get the Adidas Theme and tell me how to perosnalize the system!"
-        },
-        {
-            "title": "Step 4: Datamodel",
-            "body": "<p>?</p><p>And by the way I don't speak English!</p>",
-            "button": "Get the Adidas Theme"
-        },
-        {
-            "title": "Step 5: Records",
-            "body": "<p>?</p><p>!</p>",
-            "button": "Push sample data"
         }
     ]
 }
